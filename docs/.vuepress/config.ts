@@ -76,18 +76,18 @@ export default defineConfig4CustomTheme({
 			},
 		],
 		logo: '/img/logo.png',
-		repo: 'encode-studio-fe/fe-spec', // 导航栏右侧生成Github链接
+		repo: 'Zgc1234567/fe-spce-1.0', // 导航栏右侧生成Github链接
 		searchMaxSuggestions: 10,
 		docsDir: 'docs',
 		footer: {
-			createYear: 2023,
+			createYear: 2025,
 			copyrightInfo:
-				'encode studio | <a href="https://github.com/encode-studio-fe/fe-spec" target="_blank">github</a>',
+				'encode studio | <a href="https://github.com/Zgc1234567/fe-spce-1.0" target="_blank">github</a>',
 		},
 
 		extendFrontmatter: {
 			author: {
-				name: '澄怀',
+				name: '张保成',
 				link: 'https://github.com/encode-studio-fe/fe-sepc',
 			},
 		},

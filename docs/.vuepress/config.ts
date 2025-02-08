@@ -8,7 +8,7 @@ export default defineConfig4CustomTheme({
 			description: '前端编码规范工程化',
 		},
 	},
-	base: '/fe-spec/',
+	base: '/fe-spce-1.0/',
 	themeConfig: {
 		nav: [
 			{ text: '首页', link: '/index.md' },
@@ -76,7 +76,7 @@ export default defineConfig4CustomTheme({
 			},
 		],
 		logo: '/img/logo.png',
-		repo: 'encode-studio-fe/fe-spec',
+		repo: 'encode-studio-fe/fe-spec', // 导航栏右侧生成Github链接
 		searchMaxSuggestions: 10,
 		docsDir: 'docs',
 		footer: {

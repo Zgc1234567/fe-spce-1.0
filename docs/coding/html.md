@@ -337,7 +337,7 @@ author:
 <html lang="zh-CN">
  <head>
   <meta charset="utf-8" />
-  <meta name="description" content="超级奶龙 - 一千个职业梦想的赞助商" />
+  <meta name="description" content="超级奶龙 - 全是弟弟" />
   <meta name="keyword" content="超级奶龙" />
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, viewport-fit=cover" />
   <title>超级奶龙</title>
